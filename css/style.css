@@ -1,0 +1,40 @@
+/* body{
+background-color: aquamarine;
+} */
+ /* h1,h2,h3{
+    background-color: red;
+ }
+  */
+  /* h1{
+    background-color: red;
+  }
+.heading1{
+   color: aqua;
+} */
+ /* div p{
+    color: rgb(0, 24, 97);
+ }
+ this is for all child */
+ /* div>p{
+    color: blue;
+ }
+ only in 1st level of dom tree */
+ /* div+p{
+    color: blue;
+ } */
+  /* immidiate forward sibling */
+  /* div~p{
+    color: blue
+    ;
+  }
+  all sibling */
+  /* p:nth-child(2)
+{
+    color: blue;
+}
+div p:nth-of-type(1)
+{
+    background-color: blue;
+    font-size: xx-large;
+} */
+ 
