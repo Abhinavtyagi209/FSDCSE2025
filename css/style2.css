@@ -1,0 +1,4 @@
+p:nth-child(1){
+    background-color:red;
+}
+/* where all para is 1 child of the parent  */
